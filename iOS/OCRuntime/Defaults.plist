@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>RTBShowOCRuntimeClasses</key>
-	<false/>
+	<true/>
 	<key>RTBEnableWebServer</key>
 	<true/>
 	<key>RTBAddCommentsForBlocks</key>
